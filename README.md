@@ -1,2 +1,2 @@
-# DockerGit
-Docker file loaded into this repo
+# github
+This repo will hold src and Dockerfile
